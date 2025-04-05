@@ -12,31 +12,19 @@ If you use or refer to this simulation, please cite:
 
 ## 📂 Contents
 
-- `docs/game_documentation.tex`: Main LaTeX file containing the overall documentation of the simulation mechanics.
-- `docs/instructions/`: Contains LaTeX files with detailed role-specific instructions (CEO, Financial Analyst, Strategist).
-- `docs/images/`: Folder for any figures or diagrams used in the documents.
+- `docs/game_documentation.pdf`: Main PDF file containing the overall documentation of the simulation mechanics.
 
 ---
 
 ## 🧪 How to Read the Documentation
 
-To view or edit the simulation game documentation, follow one of the two options:
-
-### Option 1: Open in Overleaf (Recommended)
-1. Download the entire `docs/` folder as a ZIP file.
-2. Upload the ZIP to [Overleaf](https://www.overleaf.com/) as a new project.
-3. Compile the `game_documentation.tex` file.
-
-### Option 2: Compile Locally Using a LaTeX Editor
-1. Download the `docs/` folder to your computer.
-2. Open it with a LaTeX editor (e.g., TeXstudio, VS Code with LaTeX Workshop, or any TeX distribution).
-3. Compile the `game_documentation.tex` file (XeLaTeX or PDFLaTeX).
+To view or edit the simulation game documentation, simply download the pdf file and open it in your favorite pdf reader.
 
 ---
 
 ## 💬 Contact
 
-Feel free to reach out for questions, collaborations, or requests related to the simulation platform.
+Feel free to reach out for questions, collaborations, or requests related to the simulation platform. Moreover, we will provide the source code upon request.
 
 **Louis Krol**  
 📧 [krollouis@gmail.com](mailto:krollouis@gmail.com)
